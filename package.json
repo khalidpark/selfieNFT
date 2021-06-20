@@ -19,7 +19,8 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2",
     "qrcode.react" :"1.0.1",
-    "axios":"0.21.1"
+    "axios":"0.21.1",
+    "caver-js":"1.6.2"
   },
   "scripts": {
     "start": "react-scripts start",
